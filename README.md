@@ -74,8 +74,11 @@ This dashboard provides a **high-level overview of marketing campaign performanc
 ### Key KPIs
 
 **Total Customers:** 2216
+
 **Total Revenue:** ₹1.35M
+
 **Total Conversions:** 459
+
 **Average Spending:** ₹607.08
 
 These KPIs provide a snapshot of the overall **customer base, revenue generation, and campaign effectiveness**.
