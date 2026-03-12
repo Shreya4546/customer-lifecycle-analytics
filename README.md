@@ -1,4 +1,4 @@
-# Marketing Campaign Performance & Customer Insights Analysis: A/B Testing and RFM Segmentation
+# Marketing Campaign Performance Analysis | A/B Testing & RFM Segmentation | Python & Power BI
 
 ## Project Overview
 
